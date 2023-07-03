@@ -1,9 +1,21 @@
-![image](https://github.com/Danbir54/flutter_application_task_management/assets/59988668/28247dcc-9ff9-47b1-ab61-ff80ba4c0e5f)
+![image](https://github.com/Danbir54/flutter_application_task_management/assets/59988668/b0caaed5-530e-469b-80df-eef75ba13a46)
 
-![image](https://github.com/Danbir54/flutter_application_task_management/assets/59988668/81d45bd5-7e02-411d-9c15-ba1e543ae1ad)
 
-![image](https://github.com/Danbir54/flutter_application_task_management/assets/59988668/65eb3a86-e971-4cf6-acfb-d6f1f5b1f7a2)
 
-![image](https://github.com/Danbir54/flutter_application_task_management/assets/59988668/1d364b1f-c55b-4d9d-84d4-b1cec8ca67f2)
+![image](https://github.com/Danbir54/flutter_application_task_management/assets/59988668/c9136162-9dec-4cc6-a7fc-feedf02e0354)
 
-![image](https://github.com/Danbir54/flutter_application_task_management/assets/59988668/8ec4adc1-2e9d-4ea7-bc25-e26108d134d8)
+
+
+![image](https://github.com/Danbir54/flutter_application_task_management/assets/59988668/1e78bb0c-e2df-49e8-bd00-be3f0d7771e7)
+
+
+
+![image](https://github.com/Danbir54/flutter_application_task_management/assets/59988668/86189616-26d9-4bc5-8833-ec5f7c56d109)
+
+
+
+![image](https://github.com/Danbir54/flutter_application_task_management/assets/59988668/3d396d7f-a5a7-4a36-bad3-b3c630a7be98)
+
+
+
+![image](https://github.com/Danbir54/flutter_application_task_management/assets/59988668/50b1100e-3194-4dda-9b3c-2ed37fda6db5)
