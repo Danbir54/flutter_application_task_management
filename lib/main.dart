@@ -123,7 +123,10 @@ class _TaskListScreenState extends State<TaskListScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Task List')),
+      appBar: AppBar(
+        centerTitle: true,
+        title: const Text('Task Management'),
+      ),
       body: ListView.builder(
         itemCount: tasks.length,
         itemBuilder: (BuildContext context, int index) {
